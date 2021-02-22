@@ -1,9 +1,8 @@
 # Player-de-audio-HTML
 
-Com esse código você pode usar player de áudio como um Streaming.
-Muito usado para fazer "rádios on-line" o código é bem simples e não necessita de javascript.
-Lógico você pode deixar ele mais bonito e tals porém não tem necessidade de ter javascript ou CSS.
-
+Com esse código você pode usar player de áudio
+Se colocar um link de streaming você pode fazê-lo transmitir áudio ao vivo
+E implementar em outro site facilmente.
 
 Nota:
 Para reproduzir um streaming é necessário o link exato do mesmo
